@@ -1,0 +1,219 @@
+html{
+    font-family: 'Dancing Script', cursive;
+}
+body {
+    margin: 0 274px 0 274px;
+    /* border: 5px inset red; */
+    background-image: url(image/—Pngtree—solid\ color\ rose\ light\ pink_917532\ \(1\).jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:1350px  1090px ;  
+}
+/********* main  **********/
+ul{
+    padding: 0;
+    list-style-type: none;
+    list-style-position: outside;
+}
+
+#premier-h2{
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+    padding: 25px 0 1005px 0;
+    
+}
+/* premier paragraphe */
+#premier-i{
+    position: absolute;
+    top: 160px;
+    left: 380px ;
+    font-size: 40px;
+
+}
+#premier-h3 {
+    position: absolute;
+    font-size: 40px;
+    top: 120px ;
+    left: 458px;
+    border-bottom: 5px solid black;
+    border-radius: 10px;
+}
+.sucre{
+    position: absolute;
+    font-size: 25px;
+    text-align: center;
+    top: 220px;
+    left: 350px ;
+    right: 1235px;
+}
+.h4-formule{
+    font-size: 22px;
+    margin: 5px 0 0 0;
+}
+#formule-sucre{
+    position: absolute;
+    text-align: center;
+    font-size: 19px;
+    background-color: transparent ;
+    top: 200px;
+    left: 690px;
+    -webkit-box-shadow: 0px 0px 15px 7px #CBFFF1; 
+    box-shadow: 0px 0px 15px 7px white;
+    border-radius: 40px;
+    border: 5px solid black;
+}
+/* deuxieme paragraphe */
+#deuxieme-i {
+    position: absolute;
+    position: absolute;
+    font-size: 40px;
+    top: 160px ;
+    right: 550px;
+
+}
+.deuxieme-h3{
+    position: absolute;
+    font-size: 40px;
+    text-align: center;
+    top: 120px;
+    right: 445px;
+    border-bottom: 5px solid black;
+    border-radius: 10px;
+}
+#sale{
+    position: absolute;
+    top: 220px;
+    right: 350px ;
+    text-align: center;
+    font-size: 25px;
+}
+.h4-formule2{
+    font-size: 22px;
+    padding: 0;
+    margin: 5px 0 0 0;
+}
+#formule-sale{
+    position: absolute;
+    -webkit-box-shadow: 0px 0px 15px 7px #CBFFF1; 
+    box-shadow: 0px 0px 15px 7px white;
+    border-radius: 40px;
+    border: 5px solid black;
+    top: 200px;
+    right: 690px;
+    text-align: center;
+    font-size: 19px;
+    
+}
+/* formule sucré et salé */
+#formule-sucre-sale{
+    position: absolute;
+    border: 5px solid black;
+    -webkit-box-shadow: 0px 0px 15px 7px #CBFFF1; 
+    box-shadow: 0px 0px 15px 7px white;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 19px;
+    top: 300px;
+    left: 875.304px;
+    padding: 0 ;
+}
+#h4-formule-sucre-sale {
+    font-size: 22px;
+    padding: 0;
+    margin: 5px 0 0 0;
+}
+#deuxieme-h2 {
+    text-align: center;
+    font-size: 50px;
+    position: absolute;
+    top: 525px;
+    left: 775.5px;
+}
+/* box amoureux */
+#amoureux-i{
+    position: absolute;
+    font-size: 40px;
+    top: 690px;
+    left: 340px;
+}
+#h4-box-amoureux {
+    font-size: 40px;
+    border-bottom: 5px solid black;
+    border-radius: 10px;
+}
+#box-amoureux{
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    top: 650px;
+    left: 400px;
+}
+/* box apero */
+#apero-i{
+    position: absolute;
+    font-size: 40px;
+    top: 650px;
+    left: 770px;
+}
+#h3-box-apero{
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+    border-bottom: 5px solid black;
+    border-radius: 10px;
+}
+#box-apero {
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    top: 650px;
+    left: 834px;
+}
+/* box brunch */
+#brunch-i{
+    position: absolute;
+    font-size: 40px;
+    top: 690px;
+    right: 640px;
+}
+#h2-box-brunch{
+    font-size: 40px;
+    border-bottom: 5px solid black;
+    border-radius: 10px;
+}
+#box-brunch{
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    top: 650px;
+    right: 400px;
+}
+#ma-phrase{
+    font-family: none;
+    font-size: 13.2px;
+    position: absolute;
+    top:1055px;
+    left: 300px;
+}
+/* prix des box evenement */
+#prix-amoureux{
+    position: absolute;
+    font-size: 30px;
+    top: 699px;
+    left: 656px;
+    
+}
+#prix-apero{
+    position: absolute;
+    font-size: 30px ;
+    top: 660px;
+    right: 770px;
+
+}
+#prix-brunch{
+    position: absolute;
+    font-size: 30px;
+    top: 699px;
+    right: 325px;
+}
